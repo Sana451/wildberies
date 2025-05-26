@@ -35,7 +35,7 @@ None
 
 1. Клонируй репозиторий:
 ```bash
-git clone https://github.com/your-username/wb-parser.git
+git clone https://github.com/Sana451/wildberies.git
 cd wb-parser
 ```
 
@@ -46,7 +46,7 @@ pip install requests
 
 3. Запусти скрипт:
 ```bash
-python main.py
+python get_wb_info.py
 ```
 
 ## 🧪 Пример вывода в консоль
