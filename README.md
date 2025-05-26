@@ -36,7 +36,7 @@ None
 1. Клонируй репозиторий:
 ```bash
 git clone https://github.com/Sana451/wildberies.git
-cd wb-parser
+cd wldberies
 ```
 
 2. Установи зависимости (если нужно):
